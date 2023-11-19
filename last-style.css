@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.card {
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+
+img {
+    margin-right: 20px;
+    width: 80%;
+}
+
+.all {
+    flex: 1 1 20px;
+}
